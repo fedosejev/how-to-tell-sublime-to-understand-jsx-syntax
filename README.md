@@ -1,4 +1,4 @@
-# How to tell Sublime to understand JSX syntax
+# How to tell Sublime Text 3 to understand JSX syntax
 
 ## 1. Install Package Control
 1. In Sublime 3: `View` -> `Show Console`
