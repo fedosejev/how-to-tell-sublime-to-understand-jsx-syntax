@@ -7,8 +7,8 @@
 ## 2. Install `Babel` package
 
 1. In Sublime 3: `Command + Shift + P`
-2. Start typing `Package Control`.
-3. Choose `Babel`.
+2. Type: `Package Control: Install package`.
+3. Type: `Babel`.
 
 ## 3. Set as a default syntax for .jsx files
 
