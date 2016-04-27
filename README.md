@@ -15,4 +15,6 @@
 1. In Sublime 3: Open a file with `*.jsx` file extention.
 2. In Sublime 3: `View` -> `Syntax` -> `Open all with current extension as...` -> `Babel` -> `JavaScript (Babel)`.
 
+## More
+
 Learn more: https://github.com/babel/babel-sublime
