@@ -17,4 +17,4 @@
 
 ## More
 
-Learn more: https://github.com/babel/babel-sublime
+How to launch Sublime Text 3 from the command line: http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/
